@@ -12,13 +12,19 @@ For the hardware path, since young I've been repairing my owns electronics and w
 
 #### Web Dev
 ![Mysql](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)
+![Html](https://img.shields.io/badge/HTML-FA7343?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)
+![Css](https://img.shields.io/badge/CSS-4285F4?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)
+![Nginx](https://img.shields.io/badge/Nginx-339933?style=for-the-badge&logo=nginx&logoColor=white&labelColor=101010)
 
 #### Electronics / Automatics
 ![Arduino](https://img.shields.io/badge/Arduino-038C8C?style=for-the-badge&logo=arduino&logoColor=white&labelColor=101010)
+![Kicad](https://img.shields.io/badge/Kicad-F7DF1E?style=for-the-badge&logo=kicad&logoColor=white&labelColor=101010)
+![VHDL](https://img.shields.io/badge/VHDL-999999?style=for-the-badge&logo=vhdl&logoColor=white&labelColor=101010)
+
 
 #### Science
 ![Matlab](https://img.shields.io/badge/Matlab/Octave-FA7343?style=for-the-badge&logo=octave&logoColor=white&labelColor=101010)
 
 
 ## More about me at:
-
+![Linkedin](https://img.shields.io/badge/LinkedIn-Diego_Pacheco-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)
